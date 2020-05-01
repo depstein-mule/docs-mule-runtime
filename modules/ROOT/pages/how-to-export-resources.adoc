@@ -49,7 +49,6 @@ To export resources, use the `exportedResources` field of the `mule-artifact.jso
             ]
         }
     }
-  }
 }
 ----
 
